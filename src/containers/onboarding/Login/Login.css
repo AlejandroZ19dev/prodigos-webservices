@@ -1,0 +1,17 @@
+.recoverPasswordText{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #28327F;
+}
+.recoverPasswordText-Wrapper{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.margin-top-1{
+    margin-top: 20px;
+}
+
+.wrapper{
+
+}

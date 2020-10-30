@@ -1,0 +1,27 @@
+.description{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    color: #AFBDC6;
+    font-size: 15px;
+}
+.titleCard{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    color: #28327F;
+    margin-left: 5px;
+}
+
+.button {
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #0B43C4;
+    background-color:rgba(11,67,196,0.08);
+    border-width: 0;
+    border-radius: 18px;
+    margin: 10px;
+    align-self: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}

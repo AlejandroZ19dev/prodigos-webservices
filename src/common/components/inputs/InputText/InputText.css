@@ -1,0 +1,12 @@
+.wrapperInput{
+    border-width: 10px;
+    border-radius: 10px;
+    border-color: #A5A5A5;
+}
+.labelText{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #AFBDC6;
+    margin-left: 5px;
+}

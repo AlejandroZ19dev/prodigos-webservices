@@ -1,0 +1,43 @@
+.titleContainer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.titleText{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 28px;
+    color: #28327F;
+}
+.toRight {
+}
+.infoText{
+    color: #28293D;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 5px;
+    text-align: left;
+}
+.margin-top-1 {
+    margin-top: 5px;
+    margin-right: 6px;
+}
+.inputsContent{
+    margin-top: 1px;
+    margin-bottom: 30px;
+}
+.inputs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.input{
+    border-radius: 10px !important;
+    margin-right: 10px;
+    color:#AFBDC6;
+}
+.ant-select-selector{
+    border-radius: 10px !important;
+    text-align: left;
+    color:#AFBDC6;
+}

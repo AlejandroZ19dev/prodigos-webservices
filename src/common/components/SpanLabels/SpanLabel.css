@@ -1,0 +1,24 @@
+.error-message{
+    color: #c30000;
+}
+
+.box-message{
+    text-align: center;
+    background-color: transparent;
+}
+
+.success-message{
+    border: 1px solid #03c206;
+    color: #03c206;
+}
+
+.align-left-msg{
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    margin-left: 5px;
+}
+
+.align-center-msg{
+    text-align: center;
+}
